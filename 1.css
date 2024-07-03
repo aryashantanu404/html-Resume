@@ -1,0 +1,36 @@
+*{
+    background-color:#D6E5E3;
+}
+img{
+    height: 150px;
+    width: 150px;
+    shape-image-threshold:var(background-color);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+h1{
+    text-wrap:balance ;
+    text-shadow:rgb(130, 130, 63);
+    text-align: center;
+    color: rgb(95, 11, 20);
+    
+}
+.abc{
+    text-align: right;
+    background-color:#CACFD6;
+    -webkit-text-fill-color: rgb(58, 58, 37);
+}
+.abcd{
+    background-color: #A6B1E1;
+    -webkit-text-fill-color: rgb(25, 74, 75);
+}
+footer{
+    color: rgb(73, 76, 122);
+    background-color:#D6E5E3;
+}
+#a{
+    background-color: rgb(79, 114, 114);
+    color: brown;
+}
